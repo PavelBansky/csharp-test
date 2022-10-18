@@ -16,7 +16,7 @@ jobs:
 
     - name: Hello world action step
       id: hello
-      uses: PavelBansky/test-3000@1.1
+      uses: PavelBansky/test-3000@v1.1
       with:
         who-to-greet: 'Mona the Octocat'
       # Use the output from the `hello` step
