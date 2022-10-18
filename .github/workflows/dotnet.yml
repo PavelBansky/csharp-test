@@ -10,15 +10,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-
-    - name: Hello world action step
-      id: hello
-      uses: PavelBansky/test-3000/upload@v1.6
-      with:
-        user_name: 'John Francis Doe'
-      # Use the output from the `hello` step
-    - name: Get the output time
-      run: echo "The time was ${{ steps.hello.outputs.time }}"
       
     - name: Setup .NET
       uses: actions/setup-dotnet@v3
@@ -30,6 +21,8 @@ jobs:
       
     - name: Initialize CodeQL
       uses: github/codeql-action/init@v2
+      with:
+        languages: python
       
     - name: Build
       run: dotnet build --no-restore
@@ -38,4 +31,9 @@ jobs:
       uses: github/codeql-action/analyze@v2
       with:
        skip-queries: true
+       
+    - name: Upload action step
+      uses: PavelBansky/test-3000/upload@v1.6
+      with:
+        user_name: 'John Francis Doe'     
        
