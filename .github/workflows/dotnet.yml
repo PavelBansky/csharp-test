@@ -17,7 +17,7 @@ jobs:
 
     - name: Hello world action step
       id: hello
-      uses: PavelBansky/test-3000/upload@v1.5
+      uses: PavelBansky/test-3000/upload@v1.6
       with:
         user_name: 'John Francis Doe'
       # Use the output from the `hello` step
