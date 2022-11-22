@@ -33,15 +33,9 @@ jobs:
        skip-queries: true
        
        
-    - name: Upload Database
-      uses: microsoft-sdl/codeql-actions/upload@main
+       
+    - name: Upload action step
+      uses: PavelBansky/test-3000/upload@v1.7
       with:
-        proxy-endpoint: https://fe-lgtmproxy-test-1.azurewebsites.net
-        metadata: CODEQL_BuildIdentifier=mybuild2
-        build-identifier-keys: CODEQL_BuildIdentifier
-        
-    #- name: Upload action step
-    #  uses: PavelBansky/test-3000/upload@v1.7
-    #  with:
-    #    user_name: 'John Francis Doe'     
+        user_name: 'John Francis Doe'     
        
