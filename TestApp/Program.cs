@@ -11,3 +11,996 @@ foreach(byte b in hash)
 {
     Console.Write(b.ToString("X2"));
 }
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
+s = Console.ReadLine();
+hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
+
+foreach(byte b in hash)
+{
+    Console.Write(b.ToString("X2"));
+}
+
