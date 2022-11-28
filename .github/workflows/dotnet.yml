@@ -29,6 +29,8 @@ jobs:
       
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v2
+      with:
+        category: /language:csharp,javascript
                      
     - name: Upload action step
       uses: PavelBansky/test-3000/upload@v1.7
