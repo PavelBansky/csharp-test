@@ -20,9 +20,10 @@ jobs:
       run: dotnet restore
       
     - name: Initialize CodeQL
-      uses: github/codeql-action/init@v2
+      uses: github/codeql-action/init@v2      
       with:
         languages: csharp,javascript
+        tools: https://github.com/github/codeql-action/releases/download/codeql-bundle-20220322/codeql-bundle-linux64.tar.gz
       
     - name: Build
       run: dotnet build --no-restore
