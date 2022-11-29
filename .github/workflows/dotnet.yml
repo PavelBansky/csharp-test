@@ -26,7 +26,7 @@ jobs:
         tools: https://github.com/github/codeql-action/releases/download/codeql-bundle-20220322/codeql-bundle-linux64.tar.gz
       
     - name: Build
-      run: dotnet build --no-restore
+      run: dotnet build 
       
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v2
