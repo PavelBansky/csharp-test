@@ -2,7 +2,7 @@
 using System.Security.Cryptography;
 using System.Text;
 
-Console.WriteLine("Enterffhg tak snad uz phrase:");
+Console.WriteLine("TEnter some value to be hashed:");
 MD5 md5 = MD5.Create();
 string s = Console.ReadLine();
 byte[] hash = md5.ComputeHash(Encoding.ASCII.GetBytes(s));
