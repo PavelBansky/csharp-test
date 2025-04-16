@@ -1,0 +1,8 @@
+# this is comment
+path_classifiers:
+# another comment
+	library:
+	- "src/wwwroot/lib/jquery/dist/jquery.js"
+# 3rd comment
+  tests:
+	- "src/Services/*.cs"
